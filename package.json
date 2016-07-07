@@ -1,0 +1,9 @@
+{
+  "name": "JS Utils",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "devDependencies": {
+    "jasmine": "2.4.1"
+  }
+}
