@@ -1,15 +1,15 @@
 {
-  "name": "JSUtils",
-  "version": "1.0.1",
+  "name": "jsutilities",
+  "version": "1.0.0",
   "description": "Javascript common utilities with typings to TypeScript",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jcde/jsutils.git"
+    "url": "git://github.com/jcde/jsutilities.git"
   },
   "author": "Eugene Christian <Eugene@Christian.in.us>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jcde/jsutils/issues"
+    "url": "https://github.com/jcde/jsutilities/issues"
   },
   "scripts": {
     "test": "jasmine"
