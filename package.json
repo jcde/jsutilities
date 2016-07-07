@@ -1,12 +1,12 @@
 {
   "name": "jsutilities",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Javascript common utilities with typings to TypeScript",
   "repository": {
     "type": "git",
     "url": "git://github.com/jcde/jsutilities.git"
   },
-  "author": "Eugene Christian <Eugene@Christian.in.us>",
+  "author": "Eugene Christian <Eugene@Christian.in.ua>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jcde/jsutilities/issues"
