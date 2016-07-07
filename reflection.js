@@ -15,3 +15,4 @@ reflection.route = function (obj) {
     return '/' + reflection.type(obj);
 }
 
+if (typeof module !== 'undefined') module.exports = reflection;
