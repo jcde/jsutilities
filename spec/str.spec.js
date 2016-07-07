@@ -1,9 +1,9 @@
 describe("str", function () {
-  var str = require('./str.js');
+  var index = require('./index.js');
 
-  it("trim", function() {
-      expect(str.trim('ab', 'a')).toEqual('b');
-      expect(str.trim('/', '/')).toEqual('');
+  it("trim", function () {
+      expect(index.trim('ab', 'a')).toEqual('b');
+      expect(index.trim('/', '/')).toEqual('');
   });
 
   it("empty", function () {

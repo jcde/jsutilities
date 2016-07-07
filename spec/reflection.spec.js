@@ -1,11 +1,11 @@
 describe("reflection", function () {
-  var reflection = require('./reflection.js');
+  var index = require('./index.js');
 
   var ob = (function () {
       return function object() { }
   });
 
   it("type", function() {
-      expect(reflection.type(new ob())).toEqual('object');
+      expect(index.type(new ob())).toEqual('object');
   });
 });
