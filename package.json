@@ -1,6 +1,6 @@
 {
   "name": "jsutilities",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript common utilities with typings to TypeScript",
   "repository": {
     "type": "git",
@@ -17,5 +17,5 @@
   "devDependencies": {
     "jasmine": "2.4.1"
   },
-  "main": "spec/index"
+  "main": "./index.js"
 }

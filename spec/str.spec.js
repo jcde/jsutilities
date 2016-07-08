@@ -1,5 +1,5 @@
 describe("str", function () {
-  var index = require('./index.js');
+  var index = require('../str.js');
 
   it("trim", function () {
       expect(index.trim('ab', 'a')).toEqual('b');

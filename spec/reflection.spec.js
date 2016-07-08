@@ -1,5 +1,5 @@
 describe("reflection", function () {
-  var index = require('./index.js');
+  var index = require('../reflection.js');
 
   var ob = (function () {
       return function object() { }
