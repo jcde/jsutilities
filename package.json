@@ -1,6 +1,6 @@
 {
   "name": "jsutilities",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Javascript common utilities with typings to TypeScript",
   "repository": {
     "type": "git",
@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/jcde/jsutilities/issues"
   },
+  "typings": "index.d.ts",
   "scripts": {
     "test": "jasmine"
   },
